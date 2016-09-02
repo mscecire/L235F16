@@ -1,0 +1,116 @@
+<!-- this is the format for a comment. note the difference between the opening tag and the closing tag (no exclamation mark.) anything written between these tags will appear in the source code for your page, but not on the webpage itself as the browser displays it. it is useful to leave notes both to yourself and for other readers and designers. -->
+
+<html> <!-- always begin by telling the browser that this webpage is written in the coding language of HTML -->
+
+<head> <!-- the head section is a "set-up" for your webpage. for a simple page, the only thing that you really need to put in here is the page's title -->
+<title>HTML Tutorial</title> <!-- this is where the title of your page should go, it will appear in the toolbar of the browser rather than in the main body of your page -->
+</head> <!-- where ever you open a tag like <head>, always close it with its opposite tag -->
+
+<body> <!-- the body section is where all the content of your page goes-->
+<h1>How To Make A Great Homepage</h1> <!-- these are text formatting attributes, they make this text into a 'class 1 heading' ... pretty much just means it's nice and big -->
+<br> <!-- line breaks must be indicated by a tag like this. a browser will not read the line breaks you put in your text document by pressing 'Enter.' it reads only the code itself, not the formatting -->
+a quick and dirty guide
+
+<br> <!-- more line breaks, remember? -->
+<br> <!-- ok, i'll stop with all the comments now. please refer to the Text and Multimedia pages for more coding tricks (linked at the bottom of this page) -->
+
+<b>NOTE:</b> this guide is intended for a total HTML novice. If you already know your way around FTP clients and hand coding HTML, dive right in and start coding. But your homepage <i>MUST BE HAND CODED.</i> Don't use Dreamweaver or Microsoft Word or anything else besides a raw text editor for this assignment. The goal is not to make something slick and fancy, but to make something messy and fun and totally <i>yours.</i>
+
+<br>
+<img src="imgs/line01.gif">
+<br>
+
+<h2>1. Getting The FTParty Started</h2>
+The first thing you'll need to do in preparation for making your homepage is download an FTP (File Transfer Protocol) client and log-in to your Bard server space.
+<br><br>
+<li>Go to <a href="http://cyberduck.ch/">cyberduck.ch</a> and download Cyberduck. This is a good FTP client, it's free and works for both Mac and PC.
+<br><br>
+<li>Open it or unzip it or drag it or whatever you usually do with fun new programs. Just do your thing and get it going.
+<br><br>
+<li>You hopefully are seeing a screen that looks pretty much like this (below). Click "Open Connection" in the top left corner.
+<br><br>
+<img src="imgs/cyberduck01.png">
+<br><br>
+<li>Now you're seeing something like this (below). Make sure "SFTP (SSH File Transfer Protocol)" is selected in the top menu.
+<br><br>
+<img src="imgs/cyberduck02.png">
+<br><br>
+<li>Next to "Server," write "ftp.bard.edu"
+<br><br>
+<li>Use your Bard email username and password for the next two fields.
+<br><br>
+<li>Click "Connect."
+<br><br>
+<img src="imgs/cyberduck03.png">
+<br><br>
+<li>You're in! This is the 'back end' of your Bard website. That "www" folder is where the files that make up your homepage will go. But not yet! First we've got to get down and dirty with some code.
+<br><br>
+<li><b>NOTE:</b> if something went wrong for you in this first step and you're not seeing this screen, send me an email at mp5278 -at- bard -dot- edu explaining the problem, including screencaps if possible. Then continue on to the next section, writing your page's code. You won't be able to upload it just yet, but don't worry, we'll get it sorted out.
+
+<br>
+<br>
+<img src="imgs/line01.gif">
+<br>
+
+<h2>2. Up To Your Elbows In Code</h2>
+This is where the magic happens. Learning the basics of the HTML coding language, you'll write your homepage by hand in a basic text editor. As you get more familiar with HTML, you'll be able to make your page really feel like home.
+<br><br>
+<li>You don't see too many webpages coded by hand anymore, but this webpage that you're on right now is one of them. To get an idea of the basic formatting attributes of HTML, you can view the source code of this or any webpage. Let's start there.
+<br><br>
+<li>In <b>Chrome</b>, you can view the source code of any webpage by going to "View > Developer > View Source" (pictured below)
+<br><br>
+<img src="imgs/chrome.png">
+<br><br>
+<li>In <b>Firefox</b>, you can view the source code of any webpage by going to "Tools > Web Developer > Page Source" (pictured below)
+<br><br>
+<img src="imgs/firefox.png">
+<br><br>
+<li>In <b>Safari</b>, you can view the source code of any webpage by going to "View > View Source" (pictured below)
+<br><br>
+<img src="imgs/safari.png">
+<br><br>
+<li>So pull up the source code of this webpage and look at it side-by-side with the webpage itself. I have added a few notes to the code to try to explain what each element is doing. It might look a little daunting at the moment, but you'll get the hang of it in no time.
+<br><br>
+<li>After you're done looking over the source code a little, it's time to start writing your own. Open a basic text editing program. On <b>Mac</b>, the default text editor is called TextEdit. On <b>Windows,</b> it's Notepad. DO NOT use Microsoft Word, OpenOffice, or any other advanced word processing program. These are no good for hand-coding html. They come with a lot of formatting defaults built in, and that can really mess up your code.
+<br><br>
+<img src="imgs/index01.png">
+<br><br>
+<li>The above screenshot shows the bare bones of any HTML webpage without any of the content. Plugging these couple lines into your own blank text document is a good way to begin coding a new page.
+<br><br>
+<img src="imgs/index02.png">
+<br><br>
+<li>For the time being, just make a text document that looks exactly like the one above.
+<br><br>
+<li>Save it as "index.html"
+<br><br>
+<img src="imgs/index03.png">
+<br><br>
+<li>Your text editor will probably ask you if you're sure you want to save it as an HTML page. Yes, you're sure.
+
+<br>
+<br>
+<img src="imgs/line01.gif">
+<br>
+
+<h2>3. Hello World!</h2>
+<br>
+Now for the final step, uploading the .html file you just created to the world wide web!
+<br><br>
+<li>Pull up Cyberduck again. Find your index.html file on your computer and drop it into the Cyberduck window. You'll see it appear in the main window after it's done uploading.
+<br><br>
+<li>Drag and drop your index.html file into the "www" folder. This publishes it to the web.
+<br><br>
+<li>Now go visit your homepage! Its address will be "http://www.student.bard.edu/~your-user-name" (don't forget the ~tilde!)
+<br>
+<br>
+<img src="imgs/line01.gif">
+<br>
+<br>
+
+<li>To learn how to get the most out of your text on a webpage, visit <a href="/~mp5278/text.html">The Text Page</a> and view its source.
+<br><br>
+<li>Once you're ready to add a background, images, videos, music, and animations, visit <a href="/~mp5278/multimedia.html">The Multimedia Page</a> and view its source.
+
+<br><br><br>
+<a href="/~mp5278/howto.html">Back To The Top</a>
+

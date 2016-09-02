@@ -1,0 +1,70 @@
+<html>
+
+<head>
+<title>The Multimedia Page</title>
+</head>
+
+<!--IMPORTANT: upload your images, animations, and sounds to your own server space the same way you would add an html document. displaying an image or anything else using someone else's url (i.e. 'someguy.com/image.jpg') is called 'hotlinking' and it's frowned upon in the web design community because it uses someone else's bandwidth without even visiting their page. 
+
+<!-- Hint: it helps to keep your media organized in files called 'imgs' or something like that -->
+
+<!-- if you want to put a background image on a page, you do it right here in the first 'body' tag by adding the word 'background' and then the address of the image you want to use. by default, background images tile repeatedly to fill the entire background of the page -->
+
+<body background="imgs/marble.gif"> 
+
+(view source to learn how to add various media to your HTML webpage)
+
+<br><br><br> <!-- three line breaks -->
+
+<center> <!-- centers everything in the middle of the screen -->
+
+<!-- IMAGES -->
+
+<!-- if you're keeping your media in folders on your server space (highly reccomended,) you'll need to use the name of those folder as part of the images' addresses. below, 'imgs' is the name of the folder where i'm keeping 'mona.jpg', so i separate them with a slash -->
+
+<img src="imgs/mona.jpg">
+
+<br><br>
+
+<!-- you can manually change the height and width of your image using pixels as your unit of measure-->
+
+<img src="imgs/mona.jpg" width="500px" height="350px">
+
+<br><br>
+
+<!-- if you want to scale the image so that it retains its height-to-width ratio, just use one tag, (either 'height' or 'width') and the other will change automatically to maintain the original image's ratio -->
+
+<img src="imgs/mona.jpg" width="50px">
+
+<br><br>
+
+<!-- ANIMATIONS -->
+
+<!-- .gif animations can be used the same way that .jpg, .png, and other image formats are -->
+
+<img src="imgs/felix.gif">
+
+<br><br>
+
+
+
+<!-- SOUNDS -->
+
+<!-- here i've embedded a midi version of N*SYNC's 2000 smash hit "Bye Bye Bye." You can embed .mp3s in the same way, but midi files are a total classic, the soundtrack of web 1.0 -->
+
+<embed src="sounds/nsync.mid" width="25" height="25" autostart="false" loop="false"></embed>
+
+<!-- if you want the song to start playing automatically, just set autostart to 'true'. same deal if you'd like the song to loop. -->
+
+<br><br>
+
+<!-- VIDEOS -->
+<!-- for our purposes, just use YouTube's default 'embed' code -->
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/1dgLEDdFddk" frameborder="0" allowfullscreen></iframe>
+
+</center> <!-- remember, be sure to close every tag that you open -->
+
+</body>
+
+</html>
