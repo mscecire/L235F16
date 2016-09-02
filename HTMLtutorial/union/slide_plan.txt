@@ -1,0 +1,88 @@
+______INTRO
+X 1 title "Hacking The Metamedium - Maxwell Paparella, Maria Cecire, Keith O'Hara"
+(((/intro.html)))
+
+______WHY HTML?
+X 2 title "Why HTML?"
+(((/whyhtml.html)))
+
+X 3 How To Make A Great Homepage [iframe = http://student.bard.edu/~mp5278/howto.html]
+(((/tutorial.html)))
+
+X 4 multimedia, page and source [http://student.bard.edu/~mp5278/multimedia.html] and [view-source:http://student.bard.edu/~mp5278/multimedia.html]
+(((/multimedia.html)))
+
+X +++multimedia source code
+(((multimediasource.html)))
+
+______WEB 1.0 vs. 2.0
+X 5 title "Webs 1.0 and 2.0"
+(((/webs.html)))
+
+X 6 Amateur design examples [iframe = reocities.com/neighborhoods/] 
+**choose one or two or three
+(((/geocities.html)))
+
+X 6a Lialina quote
+(((90sweb.html)))
+
+X 7 Lialina's glitter comparison [iframe = http://contemporary-home-computing.org/vernacular-web-2/examples.html]
+(((/lialina.html)))
+
+______WEBRING
+X 8 title "The Webring"
+(((/webring.html)))
+
+X 9 webring logo examples [iframe = /webrings.html]
+(((/logos.html)))
+
+X 10 our webring logo
+(((/ringlogo.html)))
+
+______ABOUT ME
+X 11 title "About Me"
+(((/aboutme.html)))
+
+X 12 my page [http://student.bard.edu/~mp5278/]
+(((/aboutmaxwell.html)))
+
+X 13 maria's page [http://inside.bard.edu/~mcecire/]
+(((/aboutmaria.html)))
+
+______IMG ESSAY
+X 14 title "Img Essay"
+(((/imgessay.html)))
+
+X 15 my img essay [ ]
+(((/maxwellessay.html)))
+
+X 16 quote from benjamin [ .jpgs vvv]
+(((/benjamin.html)))
+
+X 17 quote from mcluhan [ ]
+(((/mcluhan.html)))
+
+X 18 quote from price [ ]
+(((/price.html)))
+
+X 19 quote from vierkant [ ]
+(((/vierkant.html)))
+
+______CLOSE READING
+X 20 title "Close Reading Source Code"
+(((/closereading.html)))
+
+X 21 source code of my image essay? [ ]
+(((/sourcecode.html)))
+
+
+______CONTINUING
+X 22 title "Continuing"
+(((/continuing.html)))
+
+X 23 stock image search for 'frustrated artist' [artist.jpg ]
+(((/frustratedartist.html)))
+
+X 24 example of network link structure visualization [network.png ]
+(((/networkvis.html)))
+

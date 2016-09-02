@@ -1,0 +1,88 @@
+______INTRO
+
+When Maria and Keith first approached me with their plans for Intro to Media, I was excited to hear that it would be a media theory class with an emphasis on attitudes about both consumption and production of media, as well as that developing in between space we might call reproduction, appropriation, re-use, remix, etc.
+
+What can get lost in a theoretical environment where production is not considered is the feeling of necessity for practical applications of media theory, a strategy for the student's own contributions to the mediascape they are analyzing. 
+
+Similarly, a media production course can leave to be desired a certain criticality about the work one is producing and the way it is functioning on and among the consumers.
+
+So the idea for this course is to be both a space for critical thought and discussion about how media works on us and a production workshop encouraging experimentation with how we can work with media.
+
+We have informally titled our summer research project "Hacking The Metamedium." The computer is frequently referred to as "the great metamedium," in which text, sound, still and moving images are collapsed into one location, and that location is increasingly literally at our fingertips. 
+
+This course is an attempt to encourage students, part of a generation sometimes called "the digital natives," to approach the computer (and through it every creative medium) critically, with a grounding in theory. Our hope is that they use it to produce experimental and compelling work which may stray from what we typically understand as scholarly or academic, not because it is lacking in intelligence, seriousness, or rigor, but because it understands and anticipates our changing media situation and  deals with that situation on its own terms. This course, and the Experimental Humanities program in general, will attempt to provide a crossroads between the humanities and computation, in which students with a background in the humanities can discover how computation is increasingly relevant to their interests, and vice-versa.
+
+
+
+______WHY HTML?
+
+There are a variety of means that might achieve this end, of course, but early on we decided on an instruction in hand-coded HTML as the best method for our purposes. It has a very low bar for entry, the source code is very readable by humans, and the result is a home on the web which the student can truly call their own, and which will be used to host many or all of their multimedia contributions to the class, as well as any other material they wish. It's a very adaptable form for a wide variety of uses. For instance, my presentation today is made up entirely of hand-coded HTML webpages.
+
+What I mean by "hand-coded" is that the entire webpage is designed in a basic text editor, typing in commands like <head>, <body>, <background>, <img src>, etc. which promotes an understanding of programming functions via repeated practice and allows a freedom of expression you don't find in class blogs, wikis, and other spaces for student work online. Students will be encouraged to leave comments in the source code of their homepages, explaining their rationale for certain design choices.
+
+
+
+______WEB 1.0 vs. 2.0
+
+Despite the popularity of Facebook and other contemporary social networking tools which purport to give their users a "homepage," these services severely restrict creative output with their own designs and ideologies. The creation of one's own HTML homepage is a way to circumvent these limitations. Starting from a blank slate, students will be the sole designers and webmasters of this space. Hopefully this will create a sense of empowerment for the students, as it has for me, in which the behind-the-curtains goings-on of the rest of the internet will begin to reveal themselves as more transparent, more understandable, and more subject to critical thought and usage.
+
+My fascination with the aesthetics and conceptual framework of hand-coded HTML started with my participation in and study of the early web. In preparation for making their own homepages, our students will be reading two essays entitled "The Vernacular Web 1 and 2" by Olia Lialina, a Russian internet artist pioneer, web historian, and theorist.
+
+The first essay, subtitled "The Indigenous and The Barbarians," is a lament for the loss of the aesthetics and principles of the early web, or Web 1.0. She writes, "the web of the mid 90's... was bright, rich, personal, slow and under construction. It was a web of sudden connections and personal links... it was a web of amateurs soon to be washed away by dot.com ambitions, professional authoring tools and guidelines designed by usability experts."
+
+The second is a survey of amateur aesthetics on web 2.0. It takes animated glitter graphics as its primary example and offers side-by-side comparisons of similar graphics, web 1.0 and now. She concludes that what once moved now only shimmers, an aesthetic symbol of the ever-widening gap between web professionals and web amateurs. "Home pages no longer exist," she writes, "The new generation of Web users create accounts, profiles, journals, spaces, channels, or blogs."
+
+
+
+______WEBRING
+
+Aside from a revival of Web 1.0 design methods in our course, we are also making use of a very 1.0 networking structure, the webring. Quoting Wikipedia, a webring "is a collection of websites linked together in a circular structure, and usually organized around a specific theme, often educational or social. They were popular in the 1990s and early 2000s, particularly among amateur websites, but have since fallen out of general use and become rare."
+
+The students, Maria, and myself will all maintain websites connected via the Intro to Media Webring. Users will be able to navigate through the sites one by one, by clicking the "Next" button, or select one from the complete list, also available through the navigation bar.
+
+
+
+______ABOUT ME
+
+So after the students are up-to-speed on the basics of HTML web design, and after their homepages are linked together in the class webring, their first assignment will be to create an "About Me" page, similar in concept to those fill-in-the-blank "Info" sections offered by Facebook and other online social networks, but more flexible in terms of how the user wishes to describe theirself. Students will be asked to include at least 5 pieces of media on their page which somehow illustrate what's important to them. 
+
+Maria and I have done a test run of this assignment, so I'll show you how we went about it. You can see that the resulting pages look very different, and in this way better reflect our intentions with sharing this information about ourselves online. In the eyes of Facebook, we are all 12-point Tahoma text against a white background under a blue navigation bar, a representation of our individuality has been subsumed by a brand. The expansion of that representation into a variety of media and formatting options allows the user to consider how different media allow for different messages, in the tradition of McLuhan.
+
+
+
+______IMG ESSAY
+
+The next phase of this project will be for the students to look through each other's contributions to the "About Me" assignment, downloading pieces of media they find to be of interest as they go. They will then use at least five of those borrowed images, animations, videos, and sounds --as well as any other media they would like-- in a new composition, an image essay on a subject of their choice. An image that one student used as a representation of their "favorite animal" in the "About Me" project may appear again as a pictogram in an imagined conversation between two world leaders, for instance, or as an example in a critical history of "cuteness as commodity," or in a collection of "photographs with lens flare" which includes quotes from Pagan sun-worshiping rituals. Here is my own image essay, a proposal for a formal linearity between two seemingly disparate images originally included in Maria's "About Me" page.
+
+We've been talking, as we go through the theoretical readings to be included next semester, about a 'course thesis,' an argument which our selection of materials and assignments implicitly makes. Here's one I thought might be fitting, from Walter Benjamin's "The Work of Art In The Age of Mechanical Reproduction": "Tactile appropriation is accomplished not so much by attention as by habit... For the tasks which face the human apparatus of perception at the turning points of history cannot be solved by optical means, that is, by contemplation, alone. They are mastered gradually by habit, under the guidance of tactile appropriation."
+
+I'm a Film and Electronic Arts major at Bard, so much of my interest in computation as well as media theory comes through the arts. As such, I've always been a sucker for this line, from Marshall McLuhan's "The Medium Is The Message": "The serious artist is the only person able to encounter technology with impunity, just because he is an expert aware of the changes in sense perception."
+
+If artists--or producers, to be more liberal--are the only people "to enounter technology with impunity," we have the responsibility to ourselves and to society to become producers of media. Since the medium of our day is the computer (and, increasingly, the surrounding media which have been altered, absorbed, or created by the computer,) we must learn to become critical and effective producers of computational media.
+
+In addition to McLuhan, Benjamin, and other media theory classics, I've also spent the summer re-reading a few essays manifestos by artists who are thinking about how the internet has affected what it means to produce and consume artistic products.
+
+One of these artists, Seth Price, has this to say in his essay entitled "Dispersion": "With more and more media readily available through this unruly archive [the internet], the task becomes one of packaging, producing, reframing, and distributing; a mode of production analogous not to the creation of material goods, but to the production of social contexts, using existing material."
+
+Another, Artie Vierkant, writes in "The Image Object Post-Internet," "culture Post-Internet is made up of reader-authors who by necessity must regard all cultural output as an idea or work in progress able to be taken up and continued by any of its viewers."
+
+These are a few of the ideas which I hope to get students thinking about via the "Img Essay" assignment. As they are re-using and re-contextualizing media they find on their classmates' homepages, media which was likely in circulation elsewhere before that as well, we can begin to talk about how media is no longer simply a book or a  film or a painting, but in fact an endless continuum of copies, versions, appropriations, bootlegs, reminders... etc. all of which can be employed in an analysis of that media.
+
+______CLOSE READING
+
+Finally, students will be assigned a classmate's image essay to analyze, in terms of content but especially in terms of its use of reappropriated media and HTML attributes. Part of their analysis will include a marked-up copy of the page's source code, with comments and questions about the author's use of various elements to create an experience that complements their content. We're still very much trying to figure out what "close reading source code" can mean, but some parameters we've been discussing so far are aesthetics, formatting, comments left by the author in the source code, signs of 'borrowed' code, file names, and types of media used.
+
+
+______CONTINUING
+
+The web space may also be used in the students' final projects, which may take the form of either analysis or creative work, or hopefully some combination of the two. As for the evaluation of the kind of projects we are assigning, we're trying to keep in mind that this class is targeted primarily at first-year students, many of whom enter college as very efficiently stunted to creators, to borrow a phrase from a conversation with Valerie the other day, meaning that they may not be immediately comfortable with our expectations of them. I'd like to think that this will be a productive discomfort, but we need to be careful to make sure it stays productive and exciting.
+
+In order to facilitate an environment of constructive criticism and growth rather than frustration, the creative assignments will judged at least at the beginning on a very simple rubrick of "did you do the assignment? does it have the required components?" Although careful attention will be paid to if and how the work is successful and compelling, besides meeting certain technical requirements, we want to be careful not to punish failed experiments. Because all the students' work will be available to the rest of their class, we also feel like a certain quality standard will be enforced simply out of the desire to create impressive work for their peers.
+
+At various points throughout the remainder of the semester, a network visualization of the link structure between class homepages will be created and distributed, evidencing the “homegrown” infrastructure the students have been building.
+
+In the next month before the semester begins, Maria and I will be refining these assignments as well as brainstorming new ones. Any feedback on our work so far would be very helpful. 
+
+Thank you.
+
+ 
